@@ -1,0 +1,15 @@
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.csproj.AssemblyReference.cache
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.AssemblyInfoInputs.cache
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.AssemblyInfo.cs
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.csproj.CoreCompileInputs.cache
+C:\Users\nikol\Desktop\MatPro\biograf\bin\Debug\net6.0\biograf.exe
+C:\Users\nikol\Desktop\MatPro\biograf\bin\Debug\net6.0\biograf.deps.json
+C:\Users\nikol\Desktop\MatPro\biograf\bin\Debug\net6.0\biograf.runtimeconfig.json
+C:\Users\nikol\Desktop\MatPro\biograf\bin\Debug\net6.0\biograf.dll
+C:\Users\nikol\Desktop\MatPro\biograf\bin\Debug\net6.0\biograf.pdb
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.dll
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\refint\biograf.dll
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.pdb
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\biograf.genruntimeconfig.cache
+C:\Users\nikol\Desktop\MatPro\biograf\obj\Debug\net6.0\ref\biograf.dll
